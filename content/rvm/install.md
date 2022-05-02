@@ -143,7 +143,7 @@ executing the installation instructions from a non-privileged user account.**
 Installing a specific version:
 
     \curl -sSL https://get.rvm.io | bash -s -- --version latest
-    \curl -sSL https://get.rvm.io | bash -s -- --branch [owner/][repo]
+    \curl -sSL https://get.rvm.io | bash -s -- --branch [owner/][branch]
 
 Prefix the 'bash' portion with 'sudo', of course, if you wish to apply
 this to a Multi_user Install. Please feel free to check out our
